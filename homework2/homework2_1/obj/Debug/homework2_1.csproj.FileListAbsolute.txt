@@ -1,0 +1,7 @@
+c:\users\msi-pc\source\repos\homework2\homework2_1\bin\Debug\homework2_1.exe.config
+c:\users\msi-pc\source\repos\homework2\homework2_1\bin\Debug\homework2_1.exe
+c:\users\msi-pc\source\repos\homework2\homework2_1\bin\Debug\homework2_1.pdb
+c:\users\msi-pc\source\repos\homework2\homework2_1\obj\Debug\homework2_1.csprojAssemblyReference.cache
+c:\users\msi-pc\source\repos\homework2\homework2_1\obj\Debug\homework2_1.csproj.CoreCompileInputs.cache
+c:\users\msi-pc\source\repos\homework2\homework2_1\obj\Debug\homework2_1.exe
+c:\users\msi-pc\source\repos\homework2\homework2_1\obj\Debug\homework2_1.pdb
